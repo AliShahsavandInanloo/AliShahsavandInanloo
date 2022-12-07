@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliShahsavandInanloo
 - 👀 I’m interested in Making Games and Implementing Audio and Music for Games.
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Games
 - 📫 alishahsavandinanloo@gmail.com
 
